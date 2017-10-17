@@ -1,4 +1,4 @@
-var version = 'LSPWAV15';
+var version = 'LSPWAV16';
 var filesToCache = [
   '/',
   '/index.html',
