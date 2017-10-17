@@ -1,0 +1,243 @@
+{
+  "version": 10,
+  "days": [
+    {
+      "name": "Понедельник",
+      "pairs": [
+        {
+          "order": 1,
+          "time": "8:30",
+          "lesson": [
+            {
+              "subject": "Программирование на С++",
+              "type": "Лекция",
+              "room": 450,
+              "building": "С"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "time": "10:00",
+          "lesson": [
+            {}
+          ]
+        },
+        {
+          "order": 3,
+          "time": "11:30",
+          "lesson": [
+            {
+              "subject": "Высшая математика",
+              "type": "Лекция",
+              "room": 346,
+              "building": "С"
+            },
+            {
+              "subject": "Высшая математика",
+              "type": "Практика",
+              "room": 347,
+              "building": "С"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Вторник",
+      "pairs": [
+        {
+          "order": 1,
+          "time": "8:30",
+          "lesson": [
+            {
+              "subject": "Физика",
+              "type": "Лаб",
+              "room": 433,
+              "building": "А"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "time": "10:00",
+          "lesson": [
+            {
+              "subject": "Физ-ра",
+              "type": "Практика",
+              "room": "",
+              "building": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Среда",
+      "pairs": [
+        {
+          "order": 1,
+          "time": "8:30",
+          "lesson": [
+            {
+              "subject": "Основы управления бизнесом",
+              "type": "Практика",
+              "room": "450",
+              "building": "С"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "time": "10:00",
+          "lesson": [
+            {
+              "subject": "Высшая математика",
+              "type": "Лаб",
+              "room": 254,
+              "building": "С"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "time": "11:30",
+          "lesson": [
+            {
+              "subject": "Физика",
+              "type": "Лаб",
+              "room": 447,
+              "building": "С"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Четверг",
+      "pairs": [
+        {
+          "order": 1,
+          "time": "8:30",
+          "lesson": [
+            {
+              "subject": "Иностранный язык",
+              "type": "Практика",
+              "room": "каф",
+              "building": ""
+            },
+            {}
+          ]
+        },
+        {
+          "order": 2,
+          "time": "10:00",
+          "lesson": [
+            {
+              "subject": "Высшая математика",
+              "type": "Практика",
+              "room": 347,
+              "building": "С"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "time": "11:30",
+          "lesson": [
+            {
+              "subject": "Узб язык",
+              "type": "Практика",
+              "room": "каф",
+              "building": ""
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "time": "13:30",
+          "lesson": [
+            {
+              "subject": "Программирование на С++",
+              "type": "Практика",
+              "room": 263,
+              "building": "С"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Пятница",
+      "pairs": [
+        {
+          "order": 2,
+          "time": "10:00",
+          "lesson": [
+            {
+              "subject": "Физика",
+              "type": "Лекция",
+              "room": 420,
+              "building": "А"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "time": "11:30",
+          "lesson": [
+            {},
+            {
+              "subject": "БЖД",
+              "type": "Лекция",
+              "room": 346,
+              "building": "С"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Суббота",
+      "pairs": [
+        {
+          "order": 1,
+          "time": "8:30",
+          "lesson": [
+            {
+              "subject": "Программирование на С++",
+              "type": "Практика",
+              "room": 448,
+              "building": "С"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "time": "10:00",
+          "lesson": [
+            {
+              "subject": "БЖД",
+              "type": "Практика",
+              "room": 361,
+              "building": "С"
+            },
+            {}
+          ]
+        },
+        {
+          "order": 3,
+          "time": "11:30",
+          "lesson": [
+            {
+              "subject": "Основы управления бизнесом",
+              "type": "Практика",
+              "room": 346,
+              "building": "С"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
